@@ -19,7 +19,7 @@ FUPM.exe [work] [source] [destination] {optional "noConsole"}
 
 `[destination]`: path to the new Unity Package to create, or to a new|empty folder to unpack into.
 
-When packing a new Unity Package, files and folders without a .meta file will get a ramdomized GUID. So yes, you can pack assets with and without .meta files.
+When packing a new Unity Package, files and folders without a .meta file will get a randomized GUID. So yes, you can pack assets with and without .meta files.
 
 # Motivation to make this tool
 
