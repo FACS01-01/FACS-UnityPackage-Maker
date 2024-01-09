@@ -1,6 +1,6 @@
 # FACS UnityPackage Maker
 
-Tool to create/extract Unity Packages without Unity
+Tool to create/extract Unity Packages without Unity, using .NET 8 (should be compatible with .NET 7).
 
 # How to use
 
